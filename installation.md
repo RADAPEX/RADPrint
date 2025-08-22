@@ -8,7 +8,7 @@ This guide explains how to install the **RADPRINT** APEX plugin into your Oracle
 
 1. **Clone the repository**
 
-git clone https://github.com/RADAPEX/RADPrint.git
+`git clone https://github.com/RADAPEX/RADPrint.git`
 
 2. **Locate the SQL file**
 
