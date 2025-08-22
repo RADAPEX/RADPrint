@@ -1,6 +1,8 @@
 # RADPrint Free
 DOCX printing solution provided by RADAPEX*
 
+Documentation: https://radapex.github.io/RADPrint-Documentation/
+
 ## Installation
 
 This guide explains how to install the **RADPrint Free** APEX plugin into your Oracle APEX application
