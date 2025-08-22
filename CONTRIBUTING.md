@@ -1,11 +1,11 @@
-# Contributing to RADPrint
+# Contributing to RADPrint Free
 
 RADAPEX welcomes contributions, feedback, and bug reports!
 If you encounter a problem or have ideas for future improvement please follow the steps below:
 
 ## Bugs
 
-Please report any bugs to our issues page -> `https://github.com/RADAPEX/RADPrint/issues`
+Please report any bugs to our issues page -> `https://github.com/RADAPEX/RADPrint-Free/issues`
 
 1. Click **New Issue**
 2. Add the bug label to ensure the issue can be found
@@ -16,11 +16,11 @@ Please report any bugs to our issues page -> `https://github.com/RADAPEX/RADPrin
 
 ## Feature requests
 
-New features can be requested in our issues page -> `https://github.com/RADAPEX/RADPrint/issues`
+New features can be requested in our issues page -> `https://github.com/RADAPEX/RADPrint-Free/issues`
 
 1. Click **New Issue**
 2. Add the feature label to ensure the issue can be found
-3. Describe your suggestion and how it would improve RADPrint
+3. Describe your suggestion and how it would improve RADPrint Free
 
 ## Contributions
 
@@ -30,7 +30,7 @@ Contributions can be made directly to the plugin by following the steps outlined
     - Click the **Fork** button in the top right of the landing page
 
 2. **Clone your fork**
-    - run `git clone https://github.com/<your-username>/RADPrint.git`
+    - run `git clone https://github.com/<your-username>/RADPrint-Free.git`
 
 3. **Create a new branch**
     - `git checkout -b my-feature-or-fix`

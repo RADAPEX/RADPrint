@@ -1,6 +1,6 @@
-# Using RADPrint
+# Using RADPrint-Free
 
-To use RADPrint, you must create your own template DOCx file. An example can be found in the repository -> `https://github.com/RADAPEX/RADPrint/blob/main/example_template.docx`
+To use RADPrint-Free, you must create your own template DOCx file. An example can be found in the repository -> `https://github.com/RADAPEX/RADPrint-Free/blob/main/example_template.docx`
 
 ---
 
@@ -8,11 +8,11 @@ To use RADPrint, you must create your own template DOCx file. An example can be 
 
 1. **Navigate to your page item**
 
-In the APEX builder, select the page item (e.g. button) you would like to use RADPrint with
+In the APEX builder, select the page item (e.g. button) you would like to use RADPrint-Free with
 
 2. **Create a dynamic action**
 
-Add a dynamic action to the previosuly selected button, for the true action select RADPrint [Plug-In]
+Add a dynamic action to the previosuly selected button, for the true action select RADPrint-Free [Plug-In]
  
 ## Plugin settings
 
