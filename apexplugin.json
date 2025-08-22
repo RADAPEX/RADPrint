@@ -1,9 +1,9 @@
 {
   "name" : "RADPrint - Free",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "description" : "This free APEX Dynamic Action plug-in gives you the capability to print with ease. RADPrint delivers professional-quality documents straight from your APEX apps without extra licensing costs.",
   "keywords" : ["printing", "pdf", "docx", "apex", "document", "oracle", "free", "plugin", "generation"],
-  "homepage" : "https://radapex.github.io/RADPrint-Documentation/",
+  "homepage" : "https://github.com/RADAPEX/RADPrint-Free",
   "bugs" : {
     "url" : "https://github.com/RADAPEX/RADPrint-Free/issues",
     "email" : "contact@radapex.com"
