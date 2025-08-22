@@ -38,11 +38,11 @@ Contributions can be made directly to the plugin by following the steps outlined
 4. **Make your changes and commit with a clear message**
     - `git add .`
     - `git commit -m"Fixed SQL import bug"`
-    
+
 5. **Push your changes**
     - `git push origin my-feature-or-fix`
 
-6. **Open a pull request** 
+6. **Open a pull request**
     - In your fork, click new pull request
     - Describe your changes
     - Submit the request
