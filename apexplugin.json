@@ -1,0 +1,39 @@
+{
+  "name" : "RADPrint - Free",
+  "version" : "1.0.0",
+  "description" : "Streamline your Oracle APEX applications with RADPrint free, the powerful plugin designed to make printing and exporting effortless, light-weight and free. RADPrint delivers professional-quality documents straight from your APEX apps without extra licensing costs.",
+  "keywords" : ["printing", "pdf", "docx", "apex", "document", "oracle", "free", "plugin", "generation"],
+  "homepage" : "https://radapex.github.io/RADPrint-Documentation/",
+  "bugs" : {
+    "url" : "https://github.com/RADAPEX/RADPrint-Free/issues",
+    "email" : "contact@radapex.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "commercially_supported":"Yes",  
+  "author" : {
+    "name" : "RADAPEX",
+    "email" : "contact@radapex.com",
+    "url" : "https://www.radapex.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/RADAPEX/RADPrint-Free"
+  },
+  "oracle": {
+    "versions": [
+      "19.x"
+    ],
+    "apex": {
+      "versions": [
+        "22.2.8"
+      ],
+      "plugin" : {
+        "internalName" : "RADPRINT_FREE",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/r/radapex/radprint-demo/home",
+        "previewImage" : "https://static.wixstatic.com/media/11a661_0e43b61f8e784df6827ae41f23a13256~mv2.gif"
+      }
+    }
+  }
+}
