@@ -47,5 +47,7 @@ To update to the newest version:
 2. In APEX, go to **Shared components -> Plugins -> RADPrint-Free -> Replace**
 3. Upload the new sql file
 
+**If you require APEX specialist support or consultancy contact us at contact@radapex.com or visit www.radapex.com**
+
 *Disclaimer
 This plugin is provided free and "as is," without warranties of any kind. RADAPEX are not responsible for any issues, damages, or losses resulting from its use. By using it, you accept full responsibility.
