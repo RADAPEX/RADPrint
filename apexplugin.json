@@ -31,7 +31,7 @@
       "plugin" : {
         "internalName" : "RADPRINT_FREE",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/r/radapex/radprint-demo/home",
+        "demo" : "https://oracleapex.com/pls/apex/r/radapex/radprint-demo/home",
         "previewImage" : "https://static.wixstatic.com/media/11a661_0e43b61f8e784df6827ae41f23a13256~mv2.gif"
       }
     }
